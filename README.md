@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivani 
 - 👾 I’m interested in Frontend Development.
 - 🌱 I’m currently learning Javascript.
-- 📫 How to reach me on twitter - Newsmoke38
+- 📫 How to reach me on twitter - @Newsmoke38
 - 👽 Pronouns: she of the ancient oaks(🍁)
 
 <!---
