@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivani 
 - 👾 I’m interested in Backend Development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Backend Development.
 - 📫 How to reach me on twitter - @Newsmoke38
 - 👽 Pronouns: she of the ancient oaks(🍁)
 
