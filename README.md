@@ -11,8 +11,9 @@ Right now, I’m making a computer from scratch and messing around with web + ba
 
 
 ## Things I’m Building
-> Building a computer from scratch 
-> Creating Twiki – a Twitter x Wikipedia crossover
+
+  Building a computer from scratch 
+  Creating Twiki – a Twitter x Wikipedia crossover
 
 
 
