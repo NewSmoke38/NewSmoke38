@@ -1,6 +1,6 @@
 # Hey, I'm Shivani 👾
 
->  * If you’re reading this, I’m probably hunched over my laptop like this.*
+>  * If you’re reading this, I’m probably hunched over my laptop like this. *
 
 <img src="https://giffiles.alphacoders.com/171/171294.gif" width="400"/>
 
@@ -12,8 +12,9 @@ Right now, I’m making a computer from scratch and messing around with web + ba
 
 ## Things I’m Building
 
-  Building a computer from scratch 
-  Creating Twiki – a Twitter x Wikipedia crossover
+  1. Building a computer from scratch 
+  
+  2. Creating Twiki – a Twitter x Wikipedia crossover
 
 
 
