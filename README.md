@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Shivani 
-- 👾 I’m interested in Backend Development.
-- 🌱 I’m currently learning Backend Development.
-- 📫 How to reach me on twitter - @Newsmoke38
-- 👽 Pronouns: she of the ancient oaks(🍁)
+<img src="https://giffiles.alphacoders.com/171/171294.gif" width="400"/>
 
 <!---
 NewSmoke38/NewSmoke38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
