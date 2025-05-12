@@ -1,4 +1,4 @@
-# Hey, I'm Shivani 👾
+# Yo, I'm Shivani 👾
 
 >  * If you’re reading this, I’m probably hunched over my laptop like this. 
 
@@ -12,7 +12,7 @@ Right now, I’m making a computer from scratch and messing around with web + ba
 
 ## Things I’m Building
 
-  1. Building a computer from scratch 
+  1. Building a computer from scratch (https://cypress-cayenne-00d.notion.site/Building-a-computer-from-scratch-1f15118366ab80278177c1ca7f3e7509)
   
   2. Creating Twiki – a Twitter x Wikipedia crossover
 
