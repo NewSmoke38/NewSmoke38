@@ -1,4 +1,4 @@
-# Heyyy,  I'm Shivani 👾
+# Heyyy,  I'm chxshi 👾
 
 >  * If you’re reading this, I’m probably hunched over my laptop like this. 
 
