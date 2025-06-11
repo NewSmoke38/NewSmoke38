@@ -10,13 +10,6 @@ I'm 17, into tech, building cool stuff, and always learning.
 Right now, I’m making a computer from scratch and messing around with web + backend dev.
 
 
-## Things I’m Building
-
-  1. Building a computer from scratch [Nand2Tetris-notes](https://cypress-cayenne-00d.notion.site/Building-a-computer-from-scratch-1f15118366ab80278177c1ca7f3e7509)
-  
-  2. Creating Twiki – a Twitter based thingy!
-
-
 
 <!---
 NewSmoke38/NewSmoke38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
