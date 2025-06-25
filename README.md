@@ -1,4 +1,4 @@
-# Heyyy,  I'm chxshi 👾
+# Heyyy,   I'm chxshi 👾
 
 >  * If you’re reading this, I’m probably hunched over my laptop like this. 
 
@@ -7,7 +7,7 @@
 ## Who Am I ??   
 
 I'm 17, into tech, building cool stuff, and always learning.  
-Right now, I’m making a computer from scratch and messing around with web + backend dev.
+Right now, I’m making a building cool stuff messing around with web + backend dev.
 
 
 
