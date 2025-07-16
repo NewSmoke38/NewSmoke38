@@ -6,7 +6,7 @@
 
 ## Who Am I ??   
 
-I'm 17, into tech, building cool stuff, and always learning.  
+I'm Shivani, into tech, building cool stuff, and always learning.  
 Right now, I’m making a building cool stuff messing around with web + backend dev.
 
 
