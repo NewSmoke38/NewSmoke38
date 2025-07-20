@@ -7,7 +7,7 @@
 ## Who Am I ??   
 
 I'm Shivani, into tech, building cool stuff, and always learning.  
-Right now, I’m making a building cool stuff messing around with web + backend dev.
+Right now, I’m building cool stuff and messing around with web + backend dev.
 
 
 
