@@ -6,8 +6,22 @@
 
 ## About me   
 
-I am a backend dev. i keep doing sidequests. 
-Right now, I’m building projects and diving in Python + backend dev.
+I am a backend dev. i keep doing sidequests :)
+
+High agency builder obsessed with Open Source.
+
+
+####  What I'm Shipping
+* **Open Source:** actively contributing to codebases I admire, including **PostHog**, **Grafana**, **Apache Airflow**, and **various startups**.
+* **Current Build:** Architecting a fault-tolerant [webhook delivery engine](https://github.com/NewSmoke38/webhook-delivery-system) from scratch.
+
+#### Siqequests
+Taught [Backend Development](https://youtu.be/KOutPbKc9UM?si=2Qc7Wfr9xBfhaJcg) on **freeCodeCamp** (world's largest coding YT channel).
+
+
+#### 🛠 Stack
+* **Languages:** Python, TypeScript/Node.js, 
+* **Tools:** Docker, Postgres, Redis, Celery, PostgreSQL, MongoDB. CI/CD
 
 
 
